@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-verma-14&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-verma-14" /> </p>
 
-- 🔭 I’m currently working on **Kubernetes, KEDA**
+- 🔭 I’m currently working on **Kubernetes, OpenTelemetry, KEDA**
 
 - 🌱 I’m currently learning **DevOps, Cloud, Golang**
 
